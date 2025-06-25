@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there 👋, I'm Ordu Donald<br/>
   <a href="https://github.com/CODonnie" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;Backend+API+Engineer;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;Backend+API+Engineer;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
   </a>
 </h1>
 
